@@ -1,0 +1,3 @@
+localport = 8080
+subdomain = "blog"
+ssh = "ssh-server"

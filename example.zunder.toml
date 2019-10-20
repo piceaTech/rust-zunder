@@ -1,0 +1,5 @@
+[forwarding]
+localport = 1111
+subdomain = blog
+ssh = myserver
+
